@@ -1,0 +1,11 @@
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\bin\Debug\netcoreapp3.1\ConsoleCaixaEletronico.exe
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\bin\Debug\netcoreapp3.1\ConsoleCaixaEletronico.deps.json
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\bin\Debug\netcoreapp3.1\ConsoleCaixaEletronico.runtimeconfig.json
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\bin\Debug\netcoreapp3.1\ConsoleCaixaEletronico.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\bin\Debug\netcoreapp3.1\ConsoleCaixaEletronico.dll
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\bin\Debug\netcoreapp3.1\ConsoleCaixaEletronico.pdb
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\obj\Debug\netcoreapp3.1\ConsoleCaixaEletronico.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\obj\Debug\netcoreapp3.1\ConsoleCaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\obj\Debug\netcoreapp3.1\ConsoleCaixaEletronico.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\obj\Debug\netcoreapp3.1\ConsoleCaixaEletronico.dll
+C:\Users\pedro\source\repos\Sln_ConsoleCaixaEletronico\ConsoleCaixaEletronico\obj\Debug\netcoreapp3.1\ConsoleCaixaEletronico.pdb
